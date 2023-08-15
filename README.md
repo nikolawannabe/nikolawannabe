@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nikolawannabe
 - 👀 I’m interested in #golang, ebooks, yarn crafts, music...
-- 🌱 I’m currently learning how to be a mum
 - 📫 How to reach me:
 
 <ul>
